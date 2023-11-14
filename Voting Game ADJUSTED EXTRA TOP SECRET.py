@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm 
 
+#Adjusted for the a bell curve distribution
+
 #Max number of players EDIT
 Maxplayer = 13
 
